@@ -30,3 +30,11 @@
 *.exe
 *.out
 *.app
+
+#Diractories
+*.settings
+Drivers/
+Startup/
+inc/
+*.loc
+*.ld
